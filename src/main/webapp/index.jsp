@@ -7,4 +7,3 @@
 <h1>Simple Java Web App Demo-Liron Ben Ezra</h1>
 <p>To invoke the java servlet click <a href="MyServlet">here</a></p>
 </body>
-</html>
